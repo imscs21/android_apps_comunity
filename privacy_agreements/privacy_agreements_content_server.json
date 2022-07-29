@@ -2,14 +2,17 @@
     "supported_country":["KR","US","TESTCOUNTRY"],
     "privacy_agreements":{
         "KR":{
+            "renewal_date":20220728,
             "content_type":"url",
             "content":"https://raw.githubusercontent.com/imscs21/android_apps_comunity/Dlv_free_app/privacy_agreements/privacy_agreements_contents/KR/privacy_policy.txt"
         },
         "US":{
+            "renewal_date":20220728,
             "content_type":"url",
             "content":"https://raw.githubusercontent.com/imscs21/android_apps_comunity/Dlv_free_app/privacy_agreements/privacy_agreements_contents/US/privacy_policy.txt"
         },
         "TESTCOUNTRY":{
+            "renewal_date":20220728,
             "content_type":"rawtext",
             "content":"Privacy Agreement\n1.We use third party library.\n 2.So Our App may collect your device`s IP address and brief cookie data corresponds of country(location)"
         }
