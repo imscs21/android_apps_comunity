@@ -7,7 +7,7 @@
         },
         "US":{
             "content_type":"url",
-            "content":"https://..."
+            "content":"https://raw.githubusercontent.com/imscs21/android_apps_comunity/Dlv_free_app/privacy_agreements/privacy_agreements_contents/US/privacy_policy.txt"
         },
         "TESTCOUNTRY":{
             "content_type":"rawtext",
