@@ -1,0 +1,17 @@
+{
+    "supported_country":["KR","US","TESTCOUNTRY"],
+    "privacy_agreements":{
+        "KR":{
+            "content_type":"url",
+            "content":"https://..."
+        },
+        "US":{
+            "content_type":"url",
+            "content":"https://..."
+        },
+        "TESTCOUNTRY":{
+            "content_type":"rawtext",
+            "content":"Privacy Agreement\n1.We use third party library.\n 2.So Our App may collect your device`s IP address and brief cookie data corresponds of country(location)"
+        }
+    }
+}
