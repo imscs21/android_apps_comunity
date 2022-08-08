@@ -1,0 +1,39 @@
+body{
+--daylight_textcolor: #ff80f0;
+--text_color : black;/*var(--daylight-textcolor);*/
+--text-content-padding:1.5em;
+overflow-x: hidden;
+}
+.my-header-title{
+    margin: auto;
+    padding: 0;
+    padding-right: 3em;
+}
+.my-header{
+    background-color: var(--mdc-theme-surface) /*rgba(0, 255, 255, 0)*/;
+    color: var(--text_color,red);
+    
+}
+.my-header::after{
+    border-bottom: 1px solid black;
+    content: "";
+    margin-left: var(--text-content-padding);
+    margin-right: var(--text-content-padding);
+    color:red;
+}
+.my-header-menu{
+    color:var(--text_color,red) !important;
+}
+.my-main-content-container{
+    padding:var(--text-content-padding)
+}
+.my-select-anchor{
+    width:100% !important;
+}
+.my-card{
+    width: 100%;/*calc( 100vw - 2 * var(--text-content-padding) )*/;
+    height: 100vh;
+    min-height: 3em;
+    padding:0.6rem;
+    overflow-y: scroll;
+}
