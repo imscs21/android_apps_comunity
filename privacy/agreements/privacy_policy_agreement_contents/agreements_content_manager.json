@@ -1,0 +1,21 @@
+{
+    "updateDate":20220730,
+    "supported_country":["KR","US","COMM"],
+    "privacy_agreements":{
+        "KR":{
+            "renewal_date":20220728,
+            "content_type":"localfile",
+            "content":"contents/KR/privacy_policy.md"
+        },
+        "US":{
+            "renewal_date":20220728,
+            "content_type":"localfile",
+            "content":"contents/US/privacy_policy.txt"
+        },
+        "COMM":{
+            "renewal_date":20220728,
+            "content_type":"localfile",
+            "content":"contents/COMM/privacy_policy.txt"
+        }
+    }
+}

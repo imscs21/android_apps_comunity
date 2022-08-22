@@ -20,6 +20,7 @@
     <script src="node_modules/@material/list/dist/mdc.list.min.js" ></script>
     <script src="node_modules/@material/top-app-bar/dist/mdc.topAppBar.min.js"></script>
     <script src="node_modules/@material/select/dist/mdc.select.min.js"></script>
+    <script src="node_modules/marked/marked.min.js"></script>
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <title>Privacy</title>
     <style>
@@ -502,10 +503,12 @@ const textField = new MDCTextField(document.querySelector('.mdc-text-field'));
                   if(httpRequest.status==200){
                     //console.log(httpRequest.responseText);
                     let content = httpRequest.responseText;
-                    let contentsWithLines =content.split("\n");
+                    //let contentsWithLines =content.split("\n");
+                    //let contentsWithBrTags = content.replace(/\n/gi,"<br/>\n");
                     let mainContentArea = document.getElementById("real-main-content-area");
-                    mainContentArea.innerHTML = "";
-                    for(var index in contentsWithLines){
+                    mainContentArea.innerHTML = marked.parse(content)//.replace(/\n/gi,"<br/>\n");//"";
+                    
+                    /*for(var index in contentsWithLines){
                       let line = contentsWithLines[index]
                       var paragraph = document.createElement("p");
                       var textNode = document.createTextNode(line);
@@ -515,7 +518,7 @@ const textField = new MDCTextField(document.querySelector('.mdc-text-field'));
                       //if(index<contentsWithLines.length-1){
                       //mainContentArea.appendChild(br);
                       //}
-                    }
+                    }*/
                     //console.log(mainContentArea);
 
                   }
@@ -523,11 +526,11 @@ const textField = new MDCTextField(document.querySelector('.mdc-text-field'));
               }
               let conuntry = country_value.toUpperCase();
               const supportedCountryList = ["COMM","KR","US"];
-              var url = "privacy_agreements/privacy_agreements_contents/";
+              var url = "agreements/privacy_policy_agreement_contents/contents/";
               if(supportedCountryList.includes(conuntry)){
                 url += conuntry.toUpperCase();
               }
-              url += "/privacy_policy.txt"
+              url += "/privacy_policy.md"
 
               httpRequest.open("GET",url,true);
               httpRequest.send(null);

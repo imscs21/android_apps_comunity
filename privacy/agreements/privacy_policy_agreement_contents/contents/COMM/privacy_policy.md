@@ -1,0 +1,4 @@
+From local asset(this is common document)
+Updating Privacy Policy...
+
+Core privacy policy is in Google(https://policies.google.com/privacy?hl=ko)
