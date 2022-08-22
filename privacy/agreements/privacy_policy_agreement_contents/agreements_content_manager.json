@@ -1,21 +1,21 @@
 {
-    "updateDate":20220730,
+    "updateDate":20220822,
     "supported_country":["KR","US","COMM"],
     "privacy_agreements":{
         "KR":{
-            "renewal_date":20220728,
-            "content_type":"localfile",
-            "content":"contents/KR/privacy_policy.md"
+            "renewal_date":20220822,
+            "content_type":"url",
+            "content":"https://raw.githubusercontent.com/imscs21/android_apps_comunity/Dlv_free_app/privacy/agreements/privacy_policy_agreement_contents/contents/KR/privacy_policy.md"
         },
         "US":{
             "renewal_date":20220728,
-            "content_type":"localfile",
-            "content":"contents/US/privacy_policy.txt"
+            "content_type":"url",
+            "content":"https://github.com/imscs21/android_apps_comunity/blob/Dlv_free_app/privacy/agreements/privacy_policy_agreement_contents/contents/US/privacy_policy.md"
         },
         "COMM":{
             "renewal_date":20220728,
-            "content_type":"localfile",
-            "content":"contents/COMM/privacy_policy.txt"
+            "content_type":"url",
+            "content":"https://raw.githubusercontent.com/imscs21/android_apps_comunity/Dlv_free_app/privacy/agreements/privacy_policy_agreement_contents/contents/COMM/privacy_policy.md"
         }
     }
 }
