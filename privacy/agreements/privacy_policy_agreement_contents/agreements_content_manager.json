@@ -10,7 +10,7 @@
         "US":{
             "renewal_date":20220728,
             "content_type":"url",
-            "content":"https://github.com/imscs21/android_apps_comunity/blob/Dlv_free_app/privacy/agreements/privacy_policy_agreement_contents/contents/US/privacy_policy.md"
+            "content":"https://raw.githubusercontent.com/imscs21/android_apps_comunity/Dlv_free_app/privacy/agreements/privacy_policy_agreement_contents/contents/US/privacy_policy.md"
         },
         "COMM":{
             "renewal_date":20220728,
