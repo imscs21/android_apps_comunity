@@ -1,5 +1,4 @@
-MOBILE APP PRIVACY POLICY TEMPLATE
-
+# Privacy Policy
 [MOBILE APP]
 Last updated 08 22,2022
 
