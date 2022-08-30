@@ -1,6 +1,6 @@
 # Privacy Policy
 [MOBILE APP]
-Effective Date / Last updated 08 22,2022
+Effective Date / Last updated 08 30,2022
 
 HSH (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).   Please read this Privacy Policy carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION. 
 
@@ -27,6 +27,7 @@ We may collect information about you in a variety of ways.  The information we m
 * **Third-Party Data**
     Information from third parties, such as google advertising ID or cookie data which correlated to google Ads, if you connect your account to the third party and grant the Application permission to access this information.
     - **Google Admob**: Admob serves advertisements in our free apps. You can opt out of Admob by following the instructions describled by [Google: https://support.google.com/ads/answer/2662922](https://support.google.com/ads/answer/2662922). For more details about Admob and how they collect information please refer to these links:
+        + [https://howwemakemoney.withgoogle.com/](https://howwemakemoney.withgoogle.com/)
         + [https://support.google.com/ads/answer/2662856](https://support.google.com/ads/answer/2662856)
         + [https://support.google.com/admob](https://support.google.com/admob)
         + [https://google.com/policies/privacy/partners](https://google.com/policies/privacy/partners) 
@@ -40,7 +41,7 @@ We may collect information about you in a variety of ways.  The information we m
 Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience.  Specifically, we may use information collected about you via the Application to: 
 
 1.	Compile anonymous statistical data and with third parties. 
-2.	Deliver targeted advertising, coupons, and other information regarding promotions and the Application to you. 
+2.	Deliver targeted advertising, and other information regarding promotions and the Application to you. 
 3.	Increase the efficiency and operation of the Application.
 4.	Notify you of updates to the Application, any terms, and/or any policies.
 5.	Prevent fraudulent transactions, monitor against theft, and protect against criminal activity.
@@ -112,7 +113,7 @@ If you no longer wish to receive correspondence, emails, or other communications
 Our Service responds to Do Not Track signals.
 You can enable or disable DNT by visiting the preferences or settings page of our application.
 
-Therefore, some third party websites do keep track of Your browsing activities. If You are visiting such websites, You can set Your preferences in our application to inform websites that You do not want to be tracked. You can enable or disable related settings by visiting the preferences or settings page of your google account.
+Also, some third party libraries do keep track of Your activities related to personalized ADs. If You are visiting such websites, You can set Your preferences in our application to inform websites that You do not want to be tracked. You can enable or disable related settings by visiting the preferences or settings page of your google account.
 If you want to see more details in third-party settings,See below:
 * [https://support.google.com/ads/answer/2662856](https://support.google.com/ads/answer/2662856)
 
@@ -166,10 +167,13 @@ We disclose your personal information for a business purpose to the following ca
 * Goole(Admob)(Third party service provider): For Personalized Advertisement. For more details about Admob and how they collect information please refer to these links: [https://google.com/policies/privacy/partners](https://google.com/policies/privacy/partners) & [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 #### 3. Sales of Personal Information
-In the preceding twelve months,pursuant to our Appplication. We have sold personal information in the form of business from Category A(Identifiers) & Category F(Internet or other similar network activity)
+In the preceding twelve months,pursuant to our Appplication. We have send and disclose personal information in the form of business from Category A(Identifiers) & Category F(Internet or other similar network activity) to Google(Your market place and our indirectly partner)
+Google who our one of third-parties says ["We do not sell your personal information"](https://about.google/how-our-business-works/), so we also doesn`t sell your information to real third-parties,although we send to your identifiers for personalized advertisement(optional) and are going to provide personalized advertisement to you.
 Other than our Application, we do not consider that our Services constitue a 'sale of personal information' under the CCPA. Instead, in the course of providing our Applications we disclose personal information for business purpose.
 
 However, we aim to provide consumers with control over the collection and use of ther personal information.Consistent with this goal, we will honor requests form consumers to "Opt-out" of the collection and disclosure of their personal information. Your Rights and Choices section below providers instructions on how to opt-out of our collection and disclosure of personal information.
+If you have curosity about How do google(admob) one of our third-party work,See below:
++ [https://howwemakemoney.withgoogle.com/](https://howwemakemoney.withgoogle.com/)
 
 #### 4. Your Rights
 Let's start with your rights
@@ -180,9 +184,8 @@ Let's start with your rights
 
 * **Right to know who we share your data with.**
     * Google(Admob):
+        * [https://howwemakemoney.withgoogle.com/](https://howwemakemoney.withgoogle.com/)
         * [https://policies.google.com/privacy#infosharing](https://policies.google.com/privacy#infosharing)
-    * Google(Admob) parters:
-        * [https://support.google.com/admob/answer/9012903](https://support.google.com/admob/answer/9012903)
 
 * **Right to deletion.**
     * Google(Admob): 
