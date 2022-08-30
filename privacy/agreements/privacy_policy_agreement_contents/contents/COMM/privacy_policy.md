@@ -1,6 +1,6 @@
 # Privacy Policy
 [MOBILE APP]
-Last updated 08 22,2022
+Effective Date / Last updated 08 22,2022
 
 HSH (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).   Please read this Privacy Policy carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION. 
 
@@ -13,19 +13,16 @@ This privacy policy was created using Termly.
 We may collect information about you in a variety of ways.  The information we may collect via the Application depends on the content and materials you use, and includes:  
 
 * **Personal Data**
-    Demographic and other personally identifiable information (such as your name and email address) that you voluntarily give to us when choosing to participate in various activities related to the Application, such as chat, posting messages in comment sections or in our forums, liking posts, sending feedback, and responding to surveys.  If you choose to share data about yourself via your profile, online chat, or other interactive areas of the Application, please be advised that all data you disclose in these areas is public and your data will be accessible to anyone who accesses the Application.
-
-* **Derivative Data**
-    Information our servers automatically collect when you access the Application, such as your native actions that are integral to the Application, including liking, re-blogging, or replying to a post, as well as other interactions with the Application and other users via server log files.  
+    Demographic and other personally identifiable information (such as your android AD_ID) are collected and sent to Google(Admob) to provide personalized advertisement to you until you decline to send tracking data
 
 * **Data from Sensor Of Your Device**
-    In order to measure and estimate degrees,We use your device`s sensor data such as acceleration,magnetic fields,gyro-scope, geometric vector, and any other auxiliary data which supported.
+    In order to measure and estimate degrees,We use your device`s sensor data such as acceleration,magnetic fields,gyro-scope, and any other auxiliary data which supported.
 
 * **Mobile Device Access**
-    We may request access or permission to certain features from your mobile device, including your mobile device’s [bluetooth, calendar, camera, contacts, microphone, reminders, sensors, SMS messages, social media accounts, storage,] and other features. If you wish to change our access or permissions, you may do so in your device’s settings.
+    We may request access or permission to certain features from your mobile device, including your mobile device’s [ sensors,internets, ] and other features. If you wish to change our access or permissions, you may do so in your device’s settings.
 
 * **Mobile Device Data**
-    Device information such as your mobile device ID number, model, and manufacturer, version of your operating system, country, location, and any other data you choose to provide.
+    Device information such as your model, and manufacturer, version of your operating system, country, and any other data you choose to provide.
 
 * **Third-Party Data**
     Information from third parties, such as google advertising ID or cookie data which correlated to google Ads, if you connect your account to the third party and grant the Application permission to access this information.
@@ -71,10 +68,6 @@ We may share information we have collected about you in certain situations. Your
 * **Affiliates**
     We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
 
-
-* **Offer Wall**
-    The Application may display a third-party-hosted “offer wall.”  Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for acceptance and completion of an advertisement offer.  Such an offer wall may appear in the Application and be displayed to you based on certain data, such as your geographic area or demographic information.  When you click on an offer wall, you will leave the Application.  A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account.    
-
 * **Other Third Parties**
     We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law. 
 
@@ -92,7 +85,7 @@ Network Advertising Initiative Opt-Out Tool
 
 You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt-out cookies, plug-ins, or settings.
 
-### THIRD-PARTY WEBSITES
+### THIRD-PARTIES
 The Application may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Application, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Application.
 ### SECURITY OF YOUR INFORMATION
 We use administrative, technical, and physical security measures to help protect your personal information.  While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception without indirectly(means not ours) managed algorithms(e.g. third-party libraries) or other type of misuse.  Any information disclosed online is vulnerable to interception and misuse by unauthorized parties.  Therefore, we cannot guarantee complete security if you provide personal information.
@@ -113,6 +106,16 @@ If you no longer wish to receive correspondence, emails, or other communications
 *	Entering your account settings and updating your preferences.
 *	Contacting us using the contact information provided below
 If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly. 
+
+### "Do Not Track" Policy as Required by California Online Privacy Protection Act (CalOPPA)
+
+Our Service responds to Do Not Track signals.
+You can enable or disable DNT by visiting the preferences or settings page of our application.
+
+Therefore, some third party websites do keep track of Your browsing activities. If You are visiting such websites, You can set Your preferences in our application to inform websites that You do not want to be tracked. You can enable or disable related settings by visiting the preferences or settings page of your google account.
+If you want to see more details in third-party settings,See below:
+* [https://support.google.com/ads/answer/2662856](https://support.google.com/ads/answer/2662856)
+
 #### ADDITIONAL PRIVACY POLICY FOR CALIFORNIA RESIDENTS
 This section of our Privacy Policy includes information for California residents, as required under California privacy laws, including the California Consumer Privacy Act ("CCPA"). California privacy laws require that we provide California residents information about how we use their personal information, whether collected online or offline (Please see our Web Privacy Policy and worker and applicant policies for more information), and this section is intended to satisfy that requirement.
 
@@ -160,7 +163,7 @@ In the preceding twelve(12) months,we have disclosed the following categories of
 * Category F: Internet or other similar network activity.
 
 We disclose your personal information for a business purpose to the following categories of third parties:
-* Service providers: For Personalized Advertisement. For more details about Admob and how they collect information please refer to these links: [https://google.com/policies/privacy/partners](https://google.com/policies/privacy/partners) & [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* Goole(Admob)(Third party service provider): For Personalized Advertisement. For more details about Admob and how they collect information please refer to these links: [https://google.com/policies/privacy/partners](https://google.com/policies/privacy/partners) & [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 #### 3. Sales of Personal Information
 In the preceding twelve months,pursuant to our Appplication. We have sold personal information in the form of business from Category A(Identifiers) & Category F(Internet or other similar network activity)
