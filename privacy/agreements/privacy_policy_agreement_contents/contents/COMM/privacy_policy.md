@@ -76,26 +76,27 @@ We are not responsible for the actions of third parties with whom you share pers
 ### TRACKING TECHNOLOGIES
 
 * **Internet-Based Advertising**
-Additionally, we may use third-party software to serve ads on the Application, implement email marketing campaigns, and manage other interactive marketing initiatives.  This third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us.  For more information about opting-out of interest-based ads, visit the Network Advertising Initiative Opt-Out Tool or Digital Advertising Alliance Opt-Out Tool.
+Additionally, we may use third-party software to serve ads on the Application, implement email marketing campaigns, and manage other interactive marketing initiatives.  This third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us.  For more information about opting-out of interest-based ads, visit the Network Advertising Initiative Opt-Out Tool or enabling 'Do NOT TRACK(DNT)' signal in our app settings for only ADs.
+How to Opt-out from Third-party(Google):
+    + [https://support.google.com/ads/answer/2662856](https://support.google.com/ads/answer/2662856)
 
-* **Behavior Analytics(when interacting with ADs)**
-We may also partner with selected third-party vendors[, such as  [Google Analytics,] and others], to allow tracking technologies and remarketing services on the Application through the use of first party cookies and third-party cookies, to, among other things, analyze and track users’ use of the Application, determine the popularity of certain content, and better understand online activity. By accessing the Application, you consent to the collection and use of your information by these third-party vendors. You are encouraged to review their privacy policy and contact them directly for responses to your questions. We do not transfer personal information to these third-party vendors. However, if you do not want any information to be collected and used by tracking technologies, you can install and/or update your settings for one of the following: 
-[Google Analytics Opt-Out Plugin]  
-[Google Ads Settings Page]
-Network Advertising Initiative Opt-Out Tool 
 
-You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt-out cookies, plug-ins, or settings.
 
 ### THIRD-PARTIES
 The Application may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Application, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Application.
 ### SECURITY OF YOUR INFORMATION
 We use administrative, technical, and physical security measures to help protect your personal information.  While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception without indirectly(means not ours) managed algorithms(e.g. third-party libraries) or other type of misuse.  Any information disclosed online is vulnerable to interception and misuse by unauthorized parties.  Therefore, we cannot guarantee complete security if you provide personal information.
 ### CONTROLS FOR DO-NOT-TRACK FEATURES  
-Most web browsers and some mobile operating systems [and our mobile applications] include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected.  No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online.  If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.  
+Most web browsers and some mobile operating systems [and our mobile applications] include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected.  No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do currently respond to DNT signals for only advertisement or any other mechanism that automatically communicates your choice not to be tracked online.  If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.  
+
+Also, some third party libraries do keep track of Your activities related to personalized ADs. If You are visiting such websites, You can set Your preferences in our application to inform websites that You do not want to be tracked. You can enable or disable related settings by visiting the preferences or settings page of your google account.
+If you want to see more details in third-party settings,See below:
+* [https://support.google.com/ads/answer/2662856](https://support.google.com/ads/answer/2662856)
+
 ### OPTIONS REGARDING YOUR INFORMATION
 [Account Information
 You may at any time review or change the information in your account or terminate your account by:
-*	Logging into your account settings and updating your account
+*	Logging comment in our app store(PlayStore) section
 *	Contacting us using the contact information provided below
 *	[Other]
 
@@ -108,14 +109,6 @@ If you no longer wish to receive correspondence, emails, or other communications
 *	Contacting us using the contact information provided below
 If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly. 
 
-### "Do Not Track" Policy as Required by California Online Privacy Protection Act (CalOPPA)
-
-Our Service responds to Do Not Track signals.
-You can enable or disable DNT by visiting the preferences or settings page of our application.
-
-Also, some third party libraries do keep track of Your activities related to personalized ADs. If You are visiting such websites, You can set Your preferences in our application to inform websites that You do not want to be tracked. You can enable or disable related settings by visiting the preferences or settings page of your google account.
-If you want to see more details in third-party settings,See below:
-* [https://support.google.com/ads/answer/2662856](https://support.google.com/ads/answer/2662856)
 
 #### ADDITIONAL PRIVACY POLICY FOR CALIFORNIA RESIDENTS
 This section of our Privacy Policy includes information for California residents, as required under California privacy laws, including the California Consumer Privacy Act ("CCPA"). California privacy laws require that we provide California residents information about how we use their personal information, whether collected online or offline (Please see our Web Privacy Policy and worker and applicant policies for more information), and this section is intended to satisfy that requirement.
@@ -158,17 +151,22 @@ Under the CCPA, "personal information" is any information that identifies, relat
 >      * **Collected: No.**
 
 #### 2. Sharing Personal Information
-We may disclose your personal Information to a third party for a business purpose. When we disclose personal information for a business purpose, we enter a contract that describes the purpose and requires thre recipient to both keep that personal information confidential and no use it for any purpose except performing the contract.
-In the preceding twelve(12) months,we have disclosed the following categories of personal information for a business purpose:
+We may disclose your personal Information to a third party for providing advertisements. When we disclose personal information for providing advertisements, we enter a contract that describes the purpose and requires thre recipient to both keep that personal information confidential and no use it for any purpose except performing the contract.
+Google who is our one of third-parties says ['We do not sell your personal information and do not disclose your information to real third-parties without your request.'](https://about.google/how-our-business-works/), so we also doesn`t sell your information to real third-parties,but We disclose your identifier to Google for providing advertisements,although we send to your identifiers for personalized advertisement(optional) and are going to provide personalized advertisement to you.
+
+In the preceding twelve(12) months,we have disclosed the following categories of personal information for providing advertisements
 * Category A: Identifiers
 * Category F: Internet or other similar network activity.
 
-We disclose your personal information for a business purpose to the following categories of third parties:
-* Goole(Admob)(Third party service provider): For Personalized Advertisement. For more details about Admob and how they collect information please refer to these links: [https://google.com/policies/privacy/partners](https://google.com/policies/privacy/partners) & [https://policies.google.com/privacy](https://policies.google.com/privacy)
+We disclose your personal information for providing advertisements to the following categories of third parties:
+* Goole(Admob)(Third party service provider): For Personalized Advertisement. For more details about Admob and how they collect information please refer to these links: 
+    - [https://howwemakemoney.withgoogle.com/](https://howwemakemoney.withgoogle.com/)
+    - [https://google.com/policies/privacy/partners](https://google.com/policies/privacy/partners) 
+    - [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 #### 3. Sales of Personal Information
 In the preceding twelve months,pursuant to our Appplication. We have send and disclose personal information in the form of business from Category A(Identifiers) & Category F(Internet or other similar network activity) to Google(Your market place and our indirectly partner)
-Google who our one of third-parties says ["We do not sell your personal information"](https://about.google/how-our-business-works/), so we also doesn`t sell your information to real third-parties,although we send to your identifiers for personalized advertisement(optional) and are going to provide personalized advertisement to you.
+Google who is our one of third-parties says ['We do not sell your personal information'](https://about.google/how-our-business-works/), so we also doesn`t sell your information to real third-parties,although we send to your identifiers for personalized advertisement(optional) and are going to provide personalized advertisement to you.
 Other than our Application, we do not consider that our Services constitue a 'sale of personal information' under the CCPA. Instead, in the course of providing our Applications we disclose personal information for business purpose.
 
 However, we aim to provide consumers with control over the collection and use of ther personal information.Consistent with this goal, we will honor requests form consumers to "Opt-out" of the collection and disclosure of their personal information. Your Rights and Choices section below providers instructions on how to opt-out of our collection and disclosure of personal information.
